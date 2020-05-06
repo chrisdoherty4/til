@@ -8,6 +8,7 @@ A collection of notes I've made as I've learned things about stuff.
 - [Generated Code](#generated-code)
 - [Gitlab](#gitlab)
 - [Go](#go)
+- [Github](#github)
 
 ---
 
@@ -29,3 +30,7 @@ A collection of notes I've made as I've learned things about stuff.
 ### Go
 
 - [Accessing privately hosted packages](go/accessing-privately-hosted-packages.md)
+
+### Github
+
+- [Getting the latest release](github/getting-the-latest-release.md)
