@@ -6,6 +6,7 @@ A collection of notes I've made as I've learned things about stuff.
 
 - [SWIG](#swig)
 - [Generated Code](#generated-code)
+- [Gitlab](#gitlab)
 
 ---
 
@@ -19,3 +20,7 @@ A collection of notes I've made as I've learned things about stuff.
 ### Generated Code
 
 - [To commit or to not commit](generated-code/to-commit-or-to-not-commit.md)
+
+### Gitlab
+
+- [Deploy tokens](gitlab/deploy-tokens.md)
