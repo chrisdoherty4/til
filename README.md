@@ -30,6 +30,7 @@ A collection of notes I've made as I've learned things about stuff.
 ### Go
 
 - [Accessing privately hosted packages](go/accessing-privately-hosted-packages.md)
+- [Preventing shared slice data overwrites](go/preventing-shared-slice-data-overwrites.md)
 
 ### Github
 
