@@ -46,6 +46,7 @@ A collection of things I've learned.
 - [Variadic argument expansion](go/variadic-argument-expansion.md)
 - [Accessing privately hosted packages](go/accessing-privately-hosted-packages.md)
 - [When to user value receivers](go/when-to-user-value-receivers.md)
+- [Delve](go/delve.md)
 - [Finding documentation for previous go version](go/finding-documentation-for-previous-go-version.md)
 - [Runes](go/runes.md)
 - [Handling slices of interfaces](go/handling-slices-of-interfaces.md)
